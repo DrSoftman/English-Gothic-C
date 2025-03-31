@@ -1,2 +1,2 @@
 # English-Gothic-C
-Translate from English text to Gothic 
+Translate English text to Gothic 
